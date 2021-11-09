@@ -1,0 +1,6 @@
+A lista de compras é:
+
+Arroz
+Feijão
+Batata
+Carne
